@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **DSA , Java , WEBDEB**
+- 💬 Ask me about **DSA , Java , WEBDEV**
 
 - 📫 How to reach me **gurutavp174@gmail.com**
 
